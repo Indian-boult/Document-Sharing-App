@@ -21,9 +21,6 @@ Before you begin, ensure you have met the following requirements:
 To install the Google Document-like System, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/google-document-like-system.git
-   ```
 2. Open the project in your Java IDE.
 3. Build the project to resolve dependencies.
 
